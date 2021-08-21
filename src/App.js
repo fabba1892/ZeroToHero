@@ -76,3 +76,4 @@ function App() {
 export default App;
 
 // todo and input linked
+// now when press enter then button works
