@@ -78,3 +78,4 @@ export default App;
 // todo and input linked
 // now when press enter then button works
 // state button form etc for todos
+// react hooks rules
