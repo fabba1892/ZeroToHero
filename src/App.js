@@ -81,3 +81,4 @@ export default App;
 // react hooks rules
 // fisrt customHook created
 // custm hook and useRef for joke generate
+// concept of reference to point to elements
