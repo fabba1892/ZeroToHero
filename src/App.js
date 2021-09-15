@@ -88,3 +88,4 @@ export default App;
 // npm flipmove
 // todo input and todoList with descriptns etc
 // /todos button etc
+// input and value created also addTodo function
