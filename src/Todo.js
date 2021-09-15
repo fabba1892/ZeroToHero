@@ -83,3 +83,4 @@ function Todo(props) {
 export default Todo;
 
 // input and add todo onclick onchange
+// todos add delete update
