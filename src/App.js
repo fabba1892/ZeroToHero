@@ -89,3 +89,4 @@ export default App;
 // todo input and todoList with descriptns etc
 // /todos button etc
 // input and value created also addTodo function
+// onclick button and setTodo
